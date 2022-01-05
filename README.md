@@ -1,5 +1,5 @@
 
-## wokflow -
+## Workflow -
 <img src="images/dvc1.png" alt="workflow" width="70%">
 
 
