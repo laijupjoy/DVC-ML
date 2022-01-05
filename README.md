@@ -1,4 +1,8 @@
 
+## wokflow -
+<img src="images/dvc1.png" alt="workflow" width="70%">
+
+
 # STEPS:
 ## STEP 01: Create a empty remote repository
 
